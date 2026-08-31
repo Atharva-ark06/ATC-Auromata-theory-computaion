@@ -106,7 +106,6 @@ Input String
 │ Reject  │
 └─────────┘
 ```
-
 Topics include:
 
 * DFA — Deterministic Finite Automata
@@ -308,7 +307,7 @@ This progressive structure makes it easier to understand how graph-based solutio
 
 The repository includes dedicated test-case documentation and execution evidence.
 
-The testing workflow follows:
+The testing workflow follows :
 
 ```text
         Input
