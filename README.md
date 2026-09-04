@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Academic-Project-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </p>
-
+ 
 <p align="center">
   <strong>⚙️ From Finite Automata to Directed Graphs — Exploring the Theory Behind Computation.</strong>
 </p>
