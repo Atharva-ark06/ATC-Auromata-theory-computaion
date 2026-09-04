@@ -28,7 +28,7 @@
 
 ---
 
-# 🚀 Overview
+# 🚀  Overview
 
 **Automata Theory & Computation (ATC)** is a foundational area of Computer Science that explores mathematical models of computation and the theoretical limits of machines.
 
