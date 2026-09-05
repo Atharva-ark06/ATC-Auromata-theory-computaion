@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  Notes • Assignments • Algorithms • Test Cases • Reports • Practical Implementations
-</p>
-
-<p align="center">
 
 <a href="#-overview">Overview</a> • <a href="#-topics">Topics</a> • <a href="#-directed-graphs">Directed Graphs</a> • <a href="#-project-structure">Structure</a> • <a href="#-resources">Resources</a>
 
