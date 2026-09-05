@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Theory%20of-Computation-2563EB?style=for-the-badge&logo=academia&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Graph-Theory-0891B2?style=for-the-badge&logo=graphql&logoColor=white" />
-
+ 
 <img src="https://img.shields.io/badge/Academic-Project-F59E0B?style=for-the-badge&logo=bookstack&logoColor=white" />
 
 </p>
