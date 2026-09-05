@@ -121,7 +121,7 @@ Topics include:
 # 🔄 Automata Hierarchy
 
 ```text
-                 COMPUTATIONAL MODELS
+               COMPUTATIONAL MODELS
                          │
                          ▼
                ┌──────────────────┐
