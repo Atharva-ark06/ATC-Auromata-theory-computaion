@@ -16,12 +16,6 @@
   <strong>⚙️ From Finite Automata to Directed Graphs — Exploring the Theory Behind Computation.</strong>
 </p>
 
-<p align="center">
-
-<a href="#-overview">Overview</a> • <a href="#-topics">Topics</a> • <a href="#-directed-graphs">Directed Graphs</a> • <a href="#-project-structure">Structure</a> • <a href="#-resources">Resources</a>
-
-</p>
-
 ---
 
 # 🚀  Overview
