@@ -529,16 +529,7 @@ Computer Science • Cyber Security • AI/ML • Networking
 
 ---
 
-# ⭐ Support
 
-If this repository helps you understand Automata Theory, Computation, or Graph Theory:
-
-⭐ **Star the repository**
-🍴 **Fork it**
-📚 **Learn from it**
-💡 **Improve it**
-
----
 
 <p align="center">
 
