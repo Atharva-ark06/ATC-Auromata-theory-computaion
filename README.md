@@ -533,12 +533,3 @@ Computer Science • Cyber Security • AI/ML • Networking
 
 <p align="center">
 
-## 🧠 Think Formally. Build Practically. Compute Infinitely.
-
-<strong>Automata Theory & Computation</strong>
-
-<br><br>
-
-<sub>Turning computational theory into practical understanding.</sub>
-
-</p>
