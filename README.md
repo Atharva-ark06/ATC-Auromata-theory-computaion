@@ -58,3 +58,5 @@ tests/              # Automated regression tests
 
 - Python 3.10 or newer; the programs use only the Python standard library.
 - Git for cloning and version control.
+
+## Run locally
