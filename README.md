@@ -100,3 +100,5 @@ Use these examples to connect finite-state machines, tokenization, grammar rules
 **Academic year:** 2026–27
 
 ## Author
+
+**Atharva Kulkarni**  
