@@ -64,3 +64,4 @@ tests/              # Automated regression tests
 ```bash
 python "assignment 1/Level1.py"
 python "assignment 1/Level2.py"
+python "assignment 1/Level3.py"
