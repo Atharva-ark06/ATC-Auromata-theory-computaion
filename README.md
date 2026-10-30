@@ -78,3 +78,5 @@ python -m unittest discover -s tests -v
 CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis.
 
 ## Quality and security
+
+- No third-party runtime packages are required.
