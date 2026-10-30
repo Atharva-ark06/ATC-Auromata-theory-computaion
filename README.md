@@ -68,3 +68,5 @@ python "assignment 1/Level3.py"
 ```
 
 Each program includes an interactive mode. Level 2 and Level 3 accept a multi-line program terminated by a line containing `###`.
+
+## Run automated checks
