@@ -11,3 +11,5 @@
 This repository contains coursework, practical implementations, test evidence, and supporting documentation for Automata Theory & Computation.
 
 The practical assignment builds progressively from deterministic state-machine recognition to lexical analysis and syntax parsing.
+
+## Implementations
