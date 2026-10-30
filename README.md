@@ -53,3 +53,5 @@ tests/              # Automated regression tests
 .github/workflows/  # Continuous integration and CodeQL
 *.pdf, *.docx       # Assignment evidence and reports
 ```
+
+## Requirements
