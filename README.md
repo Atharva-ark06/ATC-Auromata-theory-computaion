@@ -7,3 +7,5 @@
 ![CI](https://github.com/Atharva-ark06/ATC-Auromata-theory-computaion/actions/workflows/ci.yml/badge.svg)
 
 ## Overview
+
+This repository contains coursework, practical implementations, test evidence, and supporting documentation for Automata Theory & Computation.
