@@ -33,3 +33,4 @@ Program   -> begin StmtList end
 StmtList  -> Stmt StmtList | epsilon
 Stmt      -> int identifier ;
            | print ( identifier ) ;
+           | identifier = Expr ;
