@@ -62,3 +62,4 @@ tests/              # Automated regression tests
 ## Run locally
 
 ```bash
+python "assignment 1/Level1.py"
