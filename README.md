@@ -23,3 +23,5 @@ Recognizes identifiers using explicit start, accepting, and dead states. The acc
 Tokenizes a small teaching language into keywords, identifiers, integer literals, operators, delimiters, and unknown tokens while tracking line numbers.
 
 ### Level 3 — Lexer and recursive-descent parser
+
+Combines lexical analysis with a recursive-descent parser for declarations, assignments, print statements, and arithmetic expressions.
