@@ -94,3 +94,5 @@ See [SECURITY.md](SECURITY.md) for vulnerability reporting and [CONTRIBUTING.md]
 Use these examples to connect finite-state machines, tokenization, grammar rules, parsing, and graph representations with executable programs.
 
 ## Academic context
+
+**Course:** Automata Theory & Computation  
