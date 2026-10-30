@@ -29,3 +29,4 @@ Combines lexical analysis with a recursive-descent parser for declarations, assi
 ## MiniATC grammar
 
 ```text
+Program   -> begin StmtList end
