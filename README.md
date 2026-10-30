@@ -74,3 +74,5 @@ Each program includes an interactive mode. Level 2 and Level 3 accept a multi-li
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis.
