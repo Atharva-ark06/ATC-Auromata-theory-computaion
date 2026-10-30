@@ -90,3 +90,5 @@ CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis
 See [SECURITY.md](SECURITY.md) for vulnerability reporting and [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance.
 
 ## Learning outcomes
+
+Use these examples to connect finite-state machines, tokenization, grammar rules, parsing, and graph representations with executable programs.
