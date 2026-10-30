@@ -17,3 +17,5 @@ The practical assignment builds progressively from deterministic state-machine r
 ### Level 1 — DFA identifier recognition
 
 Recognizes identifiers using explicit start, accepting, and dead states. The accepted form starts with a letter or underscore and continues with letters, digits, or underscores.
+
+### Level 2 — MiniATC lexical analyser
