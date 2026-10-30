@@ -40,3 +40,5 @@ Factor    -> identifier | number | ( Expr )
 ```
 
 ## Directed graph assignment
+
+The repository also includes a directed-graph assignment, three implementation levels, execution screenshots, test-case material, and a written report.
