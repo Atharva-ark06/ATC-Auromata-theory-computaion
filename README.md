@@ -30,3 +30,4 @@ Combines lexical analysis with a recursive-descent parser for declarations, assi
 
 ```text
 Program   -> begin StmtList end
+StmtList  -> Stmt StmtList | epsilon
