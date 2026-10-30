@@ -13,3 +13,5 @@ This repository contains coursework, practical implementations, test evidence, a
 The practical assignment builds progressively from deterministic state-machine recognition to lexical analysis and syntax parsing.
 
 ## Implementations
+
+### Level 1 — DFA identifier recognition
