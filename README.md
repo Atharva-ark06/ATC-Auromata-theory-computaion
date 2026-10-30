@@ -84,6 +84,7 @@ CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis
 - Ruff checks common Python errors and suspicious constructs.
 - GitHub Actions validation jobs use read-only repository permissions.
 - CodeQL performs scheduled and change-triggered static analysis.
+- Gitleaks scans repository history for accidentally committed secrets.
 - Dependabot checks GitHub Actions dependencies for updates.
 - Do not commit credentials, access tokens, private keys, personal data, or local environment files.
 
