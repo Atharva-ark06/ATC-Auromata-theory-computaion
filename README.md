@@ -105,3 +105,5 @@ Use these examples to connect finite-state machines, tokenization, grammar rules
 [GitHub: Atharva-ark06](https://github.com/Atharva-ark06)
 
 ---
+
+*Built as an academic learning repository. Examples are intended for study and experimentation.*
