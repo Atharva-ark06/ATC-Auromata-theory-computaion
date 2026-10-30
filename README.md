@@ -88,3 +88,5 @@ CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis
 - Do not commit credentials, access tokens, private keys, personal data, or local environment files.
 
 See [SECURITY.md](SECURITY.md) for vulnerability reporting and [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance.
+
+## Learning outcomes
