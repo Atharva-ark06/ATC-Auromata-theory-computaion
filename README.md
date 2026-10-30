@@ -98,3 +98,5 @@ Use these examples to connect finite-state machines, tokenization, grammar rules
 **Course:** Automata Theory & Computation  
 **Practical work:** Directed Graphs and MiniATC language processing  
 **Academic year:** 2026–27
+
+## Author
