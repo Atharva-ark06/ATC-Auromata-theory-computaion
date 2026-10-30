@@ -36,3 +36,4 @@ Stmt      -> int identifier ;
            | identifier = Expr ;
 Expr      -> Term ((+ | -) Term)*
 Term      -> Factor ((* | /) Factor)*
+Factor    -> identifier | number | ( Expr )
