@@ -38,3 +38,5 @@ Expr      -> Term ((+ | -) Term)*
 Term      -> Factor ((* | /) Factor)*
 Factor    -> identifier | number | ( Expr )
 ```
+
+## Directed graph assignment
