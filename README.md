@@ -52,3 +52,4 @@ assignment 1/       # Level 1, Level 2, and Level 3 Python programs
 tests/              # Automated regression tests
 .github/workflows/  # Continuous integration and CodeQL
 *.pdf, *.docx       # Assignment evidence and reports
+```
