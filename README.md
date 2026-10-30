@@ -80,3 +80,4 @@ CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis
 ## Quality and security
 
 - No third-party runtime packages are required.
+- Automated tests cover identifier recognition, token classification, and parser acceptance/rejection.
