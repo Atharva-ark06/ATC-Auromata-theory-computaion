@@ -27,3 +27,5 @@ Tokenizes a small teaching language into keywords, identifiers, integer literals
 Combines lexical analysis with a recursive-descent parser for declarations, assignments, print statements, and arithmetic expressions.
 
 ## MiniATC grammar
+
+```text
