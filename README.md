@@ -55,3 +55,5 @@ tests/              # Automated regression tests
 ```
 
 ## Requirements
+
+- Python 3.10 or newer; the programs use only the Python standard library.
