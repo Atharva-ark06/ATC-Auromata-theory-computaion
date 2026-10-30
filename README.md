@@ -50,3 +50,4 @@ A directed graph is represented as `G = (V, E)`, where `V` is the vertex set and
 ```text
 assignment 1/       # Level 1, Level 2, and Level 3 Python programs
 tests/              # Automated regression tests
+.github/workflows/  # Continuous integration and CodeQL
