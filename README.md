@@ -32,3 +32,4 @@ Combines lexical analysis with a recursive-descent parser for declarations, assi
 Program   -> begin StmtList end
 StmtList  -> Stmt StmtList | epsilon
 Stmt      -> int identifier ;
+           | print ( identifier ) ;
