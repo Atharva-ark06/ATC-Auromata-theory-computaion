@@ -19,3 +19,5 @@ The practical assignment builds progressively from deterministic state-machine r
 Recognizes identifiers using explicit start, accepting, and dead states. The accepted form starts with a letter or underscore and continues with letters, digits, or underscores.
 
 ### Level 2 — MiniATC lexical analyser
+
+Tokenizes a small teaching language into keywords, identifiers, integer literals, operators, delimiters, and unknown tokens while tracking line numbers.
