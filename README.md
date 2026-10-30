@@ -60,3 +60,5 @@ tests/              # Automated regression tests
 - Git for cloning and version control.
 
 ## Run locally
+
+```bash
