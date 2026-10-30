@@ -86,3 +86,5 @@ CI runs regression tests on Python 3.10–3.13 and performs Ruff static analysis
 - CodeQL performs scheduled and change-triggered static analysis.
 - Dependabot checks GitHub Actions dependencies for updates.
 - Do not commit credentials, access tokens, private keys, personal data, or local environment files.
+
+See [SECURITY.md](SECURITY.md) for vulnerability reporting and [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidance.
